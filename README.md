@@ -6,5 +6,9 @@ A Next.js blog
 [ ] new router
 [ ] nested layouts
 
-
+## Start
 To start, run ```npm run dev```
+
+## Useful Resources
+- [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+
