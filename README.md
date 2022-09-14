@@ -11,4 +11,5 @@ To start, run ```npm run dev```
 
 ## Useful Resources
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
+- more resources...
 
